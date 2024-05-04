@@ -1,0 +1,23 @@
+commit 1809c928064913fc2b020fc39577c1fb7aa38a58
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Sat May 4 11:07:24 2024 -0600
+
+    Terminación de programa
+
+commit 90b1ad03d7c9bcb5c8be9b39b30fb848ceff6f20
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Sat May 4 07:29:04 2024 -0600
+
+    creacion de ColaboradoresDAO, colaboradores.java
+
+commit d0dbbc5569c73585b5a72ad18959f0fc44f04f89
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Sat May 4 06:47:13 2024 -0600
+
+    Creacion de programa y base de datos
+
+commit d75e648388c485cacc75532f0ff3c2c3beca5711
+Author: Jhonatan Alvarado <123187692+Jhonatanalvarado99@users.noreply.github.com>
+Date:   Sat May 4 06:44:59 2024 -0600
+
+    Initial commit
